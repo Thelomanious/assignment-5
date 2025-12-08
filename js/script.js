@@ -82,10 +82,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // On first load, show home view
 
 
-  [...], // ***** <---- TODO: STEP 1: Substitute [...] ******
-  true); // Explicitly setting the flag to get JSON from server processed into an object literal
-});
-// *** finish **
+  
 
 
 // Builds HTML for the home page based on categories array
