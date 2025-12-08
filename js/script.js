@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
       // of how to do that.
       // ....
 // False here because we are getting just regular HTML from the server, so no need to process JSON.
-
+});
 function buildAndShowHomeHTML(categories) {
 
   $ajaxUtils.sendGetRequest(
